@@ -108,13 +108,16 @@ h2 {
 
 /* widths and paddings for floating items */
 .why-item { 
-    width: 31.33%; padding: 40px 20px; 
+    width: 31.33%; 
+    padding: 40px 20px; 
 }
 .product-item { 
-    width: 31.33%; padding-bottom: 20px;
+    width: 31.33%; 
+    padding-bottom: 20px;
  }
 .team-member { 
-    width: 48%; padding: 30px 20px;
+    width: 48%; 
+    padding: 30px 20px;
 }
 
 /* icons in why choose us */
